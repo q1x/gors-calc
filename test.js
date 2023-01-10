@@ -1,1 +1,3 @@
-document.getElementById("demo").innerHTML = 5 + 6;
+export function f1() {
+let return 10*10}
+}
