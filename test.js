@@ -1,3 +1,3 @@
-export function f1() {
-let return 10*10}
-}
+(function f1() {
+return 10*10}
+})
